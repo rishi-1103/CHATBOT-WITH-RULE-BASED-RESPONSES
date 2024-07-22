@@ -1,0 +1,1 @@
+A basic A.I. chatbot bwhich can be further optimized for any specific tasks. This repository contains a basic AI chatbot built using Python. The chatbot leverages natural language processing (NLP) techniques to understand and respond to user inputs.
